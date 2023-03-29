@@ -63,7 +63,7 @@ section {
 
 #p4 {
   left: 300%;
-  background-image: url('/img/fondo30.jpg');
+  background: #BBD2C5;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to bottom, #292E49, #536976, #BBD2C5); 
   background: linear-gradient(to bottom, #292E49, #536976, #3b4947); 
 }
